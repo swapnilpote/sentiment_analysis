@@ -1,0 +1,9 @@
+# Folders
+
+
+# Files
+.DS_Store
+embeddings/glove.6B/*.txt
+data/train/pos/*.txt
+data/train/neg/*.txt
+data/test/*.txt
